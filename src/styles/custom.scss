@@ -1,0 +1,7 @@
+/* bootstrap customizations */
+$theme-colors: (
+    "info": gold,
+    "danger": tomato
+);
+
+@import '~bootstrap/scss/bootstrap';
